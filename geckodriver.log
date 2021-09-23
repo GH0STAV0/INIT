@@ -1,0 +1,12 @@
+1632415793366	geckodriver	INFO	Listening on 127.0.0.1:36751
+1632415794520	geckodriver::marionette	INFO	Starting browser /root/EXTRA/firefox-53.0b9/firefox/firefox with args ["-marionette"]
+1632415797241	Marionette	INFO	Listening on port 42293
+1632415797491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Image (https://ad.doubleclick.net/favicon.ico?ad=300x250&ad_box_=1&adnet=1&showad=1&size=250x250) wait timeout: did not return within 800ms
+JavaScript error: https://setpadchat.com/r5kc0TYzVXjPFQt/13358, line 2: Error: tz check
+JavaScript error: https://a.vdo.ai/core/dependencies_stories_v1/vdo.min.js, line 10: SyntaxError: missing ( before catch
+JavaScript error: https://a.vdo.ai/core/dependencies_stories_v1/vdo.min.js, line 10: SyntaxError: missing ( before catch
+1632415863329	geckodriver	INFO	Listening on 127.0.0.1:55871
+1632415864474	geckodriver::marionette	INFO	Starting browser /root/EXTRA/firefox-53.0b9/firefox/firefox with args ["-marionette"]
+1632415867034	Marionette	INFO	Listening on port 34427
+1632415867205	Marionette	WARN	TLS certificate errors will be ignored for this session
